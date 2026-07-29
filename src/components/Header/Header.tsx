@@ -1,0 +1,2 @@
+import "./Header.css";
+export default function Header(){return <header className="header"><div className="container header__container"><img src="/assets/images/logo.svg" alt="Casa Verde"/><nav><ul><li>Como fazer</li><li>Ofertas</li><li>Depoimentos</li><li>Vídeos</li><li>Meu carrinho</li></ul></nav></div></header>}
