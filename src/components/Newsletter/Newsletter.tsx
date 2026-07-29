@@ -1,0 +1,1 @@
+import "./Newsletter.css"; export default function Newsletter(){return <form className="newsletter"><input type="email" placeholder="Insira seu e-mail"/><button>Assinar newsletter</button></form>}
