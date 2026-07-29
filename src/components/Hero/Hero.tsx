@@ -1,0 +1,3 @@
+import "./Hero.css";
+import Newsletter from "../Newsletter/Newsletter";
+export default function Hero(){return <section className="hero"><div className="container hero__container"><div className="hero__content"><span>Sua casa com as</span><h1>melhores plantas</h1><p>Encontre aqui uma vasta seleção de plantas para decorar a sua casa.</p><Newsletter/></div><div className="hero__image"><div className="yellow-circle"></div><img src="/assets/images/hero.png" alt="Planta"/></div></div></section>}
