@@ -1,1 +1,0 @@
-Copie estes arquivos sobre a Etapa1. Adicione hero.png em src/assets/images/
