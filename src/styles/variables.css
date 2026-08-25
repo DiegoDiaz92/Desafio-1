@@ -1,1 +1,30 @@
-:root{--yellow:#FFCB47;--green:#75BC4D;--title:#202020;--text:#808080;--background:#fff;--container:1200px;}
+:root {
+  /* Colors */
+  --color-primary: #ffcb47;
+  --color-primary-dark: #ffb800;
+
+  --color-secondary: #75bc4d;
+
+  --color-title: #202020;
+  --color-text: #585858;
+  --color-background: #fff;
+  --color-white: #fff;
+
+  /* Typography */
+  --font-title: "Elsie", serif;
+  --font-body: "Montserrat", sans-serif;
+
+  /* Layout */
+  --container-width: 1200px;
+
+  --spacing-xs: .5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 6rem;
+
+  /* Effects */
+  --shadow-default: 0 25px 60px rgba(0,0,0,.08);
+  --radius-md: 8px;
+  --transition-default: .25s ease;
+}
